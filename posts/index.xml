@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on BdsmBlog</title>
+    <title>Posts on BDSMblog</title>
     <link>https://bdsmblog.github.io/posts/</link>
-    <description>Recent content in Posts on BdsmBlog</description>
+    <description>Recent content in Posts on BDSMblog</description>
     <image>
       <url>https://bdsmblog.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://bdsmblog.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
@@ -16,7 +16,8 @@
       <pubDate>Thu, 22 Apr 2021 12:36:30 +0300</pubDate>
       
       <guid>https://bdsmblog.github.io/posts/my-second-post/</guid>
-      <description>One Two Content</description>
+      <description>One Content1
+Two Content2</description>
     </item>
     
     <item>
@@ -32,7 +33,7 @@ fkjerfrkfh русский текст</description>
     </item>
     
     <item>
-      <title>Прерванный И Оболганный</title>
+      <title>Прерванный и Оболганный</title>
       <link>https://bdsmblog.github.io/posts/%D0%BF%D1%80%D0%B5%D1%80%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9-%D0%B8-%D0%BE%D0%B1%D0%BE%D0%BB%D0%B3%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9/</link>
       <pubDate>Tue, 11 Aug 2009 00:00:00 +0000</pubDate>
       
